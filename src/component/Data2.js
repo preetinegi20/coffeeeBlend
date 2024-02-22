@@ -1,0 +1,57 @@
+let list2 = [
+  {
+    id: 5,
+    img: require("../images/CoffeeBestSeller/pexels-gül-işık-2615323 (1).jpg"),
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    quant: 1,
+    ttrwpp: 20,
+  },
+  {
+    id: 6,
+    img: require("../images/CoffeeBestSeller/pexels-polina-kovaleva-5430755.jpg"),
+
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    quant: 1,
+    ttrwpp: 20,
+  },
+  {
+    id: 7,
+    img: require("../images/CoffeeBestSeller/pexels-feyza-yıldırım-12252713.jpg"),
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    quant: 1,
+    ttrwpp: 20,
+  },
+  {
+    id: 8,
+    img: require("../images/CoffeeBestSeller/pexels-polina-kovaleva-5430755.jpg"),
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    quant: 1,
+    ttrwpp: 20,
+  },
+  {
+    id: 9,
+    img: require("../images/CoffeeBestSeller/pexels-gül-işık-2615323 (1).jpg"),
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    ttrwpp: 20,
+  },
+  {
+    id: 10,
+    img: require("../images/CoffeeBestSeller/pexels-feyza-yıldırım-12252713.jpg"),
+    pName: "COFFEE CAPECCINO",
+    disc: "Even the all-powerful Pointing has no control about ",
+    price: 20,
+    quant: 1,
+    ttrwpp: 20,
+  },
+];
+export default list2;
